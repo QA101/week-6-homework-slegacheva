@@ -1,0 +1,18 @@
+1. Reading
+
+2. Video
+
+3. Coding in “SRC” folder
+
+4. Coding problems:
+
+	a. Coding problems in “Self-Coding” folders
+
+	b. Read this: http://codingbat.com/doc/java-map-wordcount.html
+		Solve problems related to this:
+		http://codingbat.com/prob/p117630
+		http://codingbat.com/prob/p152303
+		Submit code as Java file to “Self-Coding” folder
+
+	
+
