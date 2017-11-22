@@ -111,6 +111,7 @@ public class IOCalculator {
 			case "+":
 				return first + second;
 			case "/":
+				//There is a bug here!!!! Lose of data caused by using ints
 				return first / second;
 			case "-":
 				return first - second;
