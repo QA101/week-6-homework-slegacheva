@@ -21,7 +21,10 @@ None
 
 3. Coding in “SRC” folder
 
-Review the src code and resource examples. The code is fully functioning, so no writting.
+Review the src code and resource examples. The code is fully functioning, so no writting. Review in this order:
+FileReadExample.java
+FileWriteExample.java
+IOCalculator.java
 
 4. Coding problems:
 
