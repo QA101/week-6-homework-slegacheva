@@ -1,8 +1,27 @@
 1. Reading
+Should read
+https://www.journaldev.com/878/java-write-to-file
+http://www.baeldung.com/java-write-to-file
+https://docs.oracle.com/javase/tutorial/essential/exceptions/definition.html
+http://www.geeksforgeeks.org/types-of-exception-in-java-with-examples/
+http://www.codejava.net/java-core/exception/understanding-exception-stack-trace-in-java-with-code-examples
+http://www.geeksforgeeks.org/difference-between-scanner-and-bufferreader-class-in-java/
+https://medium.com/@isaacjumba/why-use-bufferedreader-and-bufferedwriter-classses-in-java-39074ee1a966
+
+Deep Dive Reading
+https://docs.oracle.com/javase/8/docs/api/java/io/FileWriter.html
+https://docs.oracle.com/javase/8/docs/api/java/io/PrintWriter.html
+https://docs.oracle.com/javase/8/docs/api/java/util/Scanner.html
+https://docs.oracle.com/javase/8/docs/api/java/lang/Exception.html
+https://www.programcreek.com/2013/03/hashmap-vs-treemap-vs-hashtable-vs-linkedhashmap/
 
 2. Video
 
+None
+
 3. Coding in “SRC” folder
+
+Review the src code and resource examples. The code is fully functioning, so no writting.
 
 4. Coding problems:
 
