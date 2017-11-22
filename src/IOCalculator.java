@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 public class IOCalculator {
 	Scanner input;
-	File f = new File("output.txt");
+	File f;
 	FileWriter writer;
 	PrintWriter pw;
 	
